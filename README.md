@@ -1,4 +1,4 @@
-#Applied Deep Learning with Python (2021-2022)
+# Applied Deep Learning with Python (2021-2022)
 DS-telecom-14
 
 ## 1-Shallowmind
