@@ -1,7 +1,7 @@
 #Applied Deep Learning with Python (2021-2022)
 DS-telecom-14
 
-# 1-Shallowmind
+## 1-Shallowmind
 Pierre PIOVESAN, Vincent JOSSE, Huan TROCHON
 
 ## COVID-19 lung lesion segmentation on CT-scans
